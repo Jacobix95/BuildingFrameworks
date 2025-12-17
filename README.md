@@ -84,15 +84,7 @@ Singleton Pattern (driver & configuration)
 
 ▶️ Running Tests
 
-Run all tests:
-
 mvn clean test
-
-
-Run smoke tests:
-
-mvn clean test -DsuiteXmlFile=testng-smoke.xml
-
 
 Parallel execution is configured via TestNG.
 
@@ -129,3 +121,4 @@ Showcase Test Automation Framework design
 Apply common design patterns in practice
 
 Present a CI-ready, real-world solution
+
